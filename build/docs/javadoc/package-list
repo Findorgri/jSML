@@ -1,0 +1,5 @@
+org.openmuc.jsml
+org.openmuc.jsml.structures
+org.openmuc.jsml.structures.requests
+org.openmuc.jsml.structures.responses
+org.openmuc.jsml.transport

@@ -1,0 +1,5 @@
+eclipse.project.name = 'jsml-cli-app'
+
+dependencies {
+  compile project(':')
+}
